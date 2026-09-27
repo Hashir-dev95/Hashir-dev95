@@ -1,4 +1,4 @@
-# Hashir.dev
+# Hashir-dev95
 Crafting modern software, elegant interfaces, and meaningful digital experiences — one project at a time. ✦
 # Hi, I'm Hashir 👋
 
