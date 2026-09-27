@@ -1,5 +1,5 @@
 # Hashir-dev95
-Crafting modern software, elegant interfaces, and meaningful digital experiences — one project at a time. ✦
+Crafting modern software, elegant interfaces, and meaningful digital experiences — one project at a time.
 # Hi, I'm Hashir 👋
 
 ### Software Developer • Mobile App Builder • Problem Solver
@@ -83,4 +83,4 @@ I'm always interested in learning, building, and collaborating on interesting id
 **WA Business:**  https://wa.me/message/SSEDNLSB55E5G1
 
 
-### ✦ Building ideas into polished digital experiences — one project at a time.
+### Building ideas into polished digital experiences — one project at a time.
