@@ -76,7 +76,7 @@ I believe good software is not just about making something work — it's about m
 
 I'm always interested in learning, building, and collaborating on interesting ideas.
 
-**GitHub:** [@hashir.dev](https://github.com/)
+**GitHub:** [@hashir-dev95](https://github.com/)
 
 **Linkedln:** www.linkedin.com/in/hashirkhanrn
 
